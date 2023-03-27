@@ -1,0 +1,17 @@
+.container{
+    background-color: lightgray;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: space-around;
+   align-items: stretch;
+}
+.cont-items{
+  text-align: center;
+    border: 1px solid magenta;
+}
+footer{
+    max-width: fit-content;
+    padding: 10%;
+}
